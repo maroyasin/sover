@@ -1,0 +1,218 @@
+header {
+  background-image: url("../images/coverpic.jpg");
+  background-size: cover;
+}
+
+.overlay {
+  background-color: #00000059;
+}
+
+.head {
+  padding: 20px;
+}
+
+.head li .active {
+  color: #20ff20 !important;
+}
+
+.brand-name i {
+  color: #20ff20;
+}
+
+.head .brand-name {
+  font-size: 27px;
+}
+
+.head a {
+  color: #fff !important;
+}
+
+.head ul {
+  margin-right: 40px;
+}
+
+.head li {
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+.custom-btn {
+  background-color: #ff4848;
+  color: #fff;
+  border-radius: unset;
+  font-size: 14px;
+  padding: 13px 25px;
+  text-transform: uppercase;
+}
+
+.content {
+  color: #fff;
+  padding: 8rem 0;
+}
+
+.content h1 {
+  font-size: 4rem;
+}
+
+.content i {
+  font-size: 0.7rem;
+  padding: 0 10px;
+}
+
+/* SECTION */
+
+section {
+  padding: 40px 0;
+  background-color: #e6ecf1;
+}
+
+.main {
+  padding: 30px;
+}
+
+.main-content{
+  background-color: #fff;
+  margin-top : 30px;
+}
+
+.change {
+  font-size: 1.6rem;
+  color: #fff;
+}
+
+.main span {
+  font-size: 0.7rem;
+  margin-right: 15px;
+  color: #848d96;
+  letter-spacing: 1px;
+}
+
+.main p {
+  font-size: 0.9rem;
+  color: #848d96;
+}
+
+.caro img {
+  height: 375px;
+}
+
+.main1 {
+  padding: 20px;
+}
+
+.main1 h4 {
+  font-size: 1.2rem;
+}
+
+.keyword {
+  border: none;
+  background-color: #e6ecf1;
+  border-radius: unset;
+  font-size: 0.8rem;
+  padding: 14px 18px;
+  position: relative;
+}
+
+.search-button {
+  position: relative;
+}
+
+.search-button button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 18%;
+  background-color: #042c58;
+  color: #fff;
+  border-radius: unset;
+}
+
+.user-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.para {
+  font-size: 0.9rem;
+  color: #848d96;
+}
+
+.icons i {
+  padding: 8px;
+  color: #ff4848;
+  cursor: pointer;
+}
+
+.feeds {
+  padding: 20px 0;
+  border-bottom: 1px solid #dadada;
+}
+
+.feeds img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+
+.feeds span {
+  font-size: 0.7rem;
+  color: #848d96;
+}
+
+.category {
+  padding: 15px 0;
+  border-bottom: 1px solid #dadada;
+}
+
+.category span {
+  font-size: 0.9rem;
+}
+
+.list-style {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 20px 0;
+  padding: 0;
+}
+
+.icons1 li{
+  height: 50px;
+  width: 50px;
+  background-color: #042c58;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.icons1 a {
+  color: #fff;
+}
+
+.main2 img {
+  width: 100%;
+  padding: 5px;
+}
+
+.tags li{
+  background-color: #e6ecf1;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  padding: 10px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.tags a {
+  color: #000;
+  font-weight: bold;
+}
+
+.final-banner {
+  height: 600px;
+  width: 100%;
+}
